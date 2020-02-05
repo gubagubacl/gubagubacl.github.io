@@ -1,0 +1,8 @@
+p,head{
+  text-align:center;
+  }
+footer{
+  text-color:white;
+  text-align:center;
+  background-color:black;
+  }
